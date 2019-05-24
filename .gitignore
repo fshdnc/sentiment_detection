@@ -2,3 +2,4 @@ aclImdb/
 *.tar.gz
 *.zip
 *.csv
+*.pickle
